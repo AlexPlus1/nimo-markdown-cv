@@ -8,7 +8,7 @@ homepage:
   url: https://github.com/AlexPlus1
   text: https://github.com/AlexPlus1
 phone:
-  text: 156-5514-5741  
+  156-5514-5741  
 ---
 
 # 项何雪枫
@@ -35,7 +35,7 @@ Supported arguments:
 - COMP3311 数据库系统 83/100
 - 主要课程：面向对象编程，软件工程及敏捷开发基础，人工智能，神经网络和深度学习 
 
-### **新南威尔士大学** `2019.9 -` 至今
+### **新南威尔士大学** `2019.9 - 至今`
 
 ```
 澳大利亚，新南威尔士州，悉尼
