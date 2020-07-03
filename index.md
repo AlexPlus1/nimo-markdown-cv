@@ -8,7 +8,7 @@ homepage:
   url: https://github.com/AlexPlus1
   text: https://github.com/AlexPlus1
 phone:
-  text: 156-5514-5741  
+   156-5514-5741 / +61 452-345-125  
 ---
 
 # 项何雪枫
