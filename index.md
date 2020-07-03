@@ -8,7 +8,7 @@ homepage:
   url: https://github.com/AlexPlus1
   text: https://github.com/AlexPlus1
 phone:
-  text: 156-5514-5741  
+   156-5514-5741  
 ---
 
 # 项何雪枫
@@ -48,7 +48,7 @@ Supported arguments:
 
 ## 工作经历
 
-### **悉尼匠人学院** `2020.3 -` 至今
+### **悉尼匠人学院** `2020.3 - 至今`
 编程基础辅导讲师
 讲解课堂内容，帮助学生理解编程基础思想以及Python语法和技巧。
 
